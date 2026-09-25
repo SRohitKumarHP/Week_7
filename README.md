@@ -39,6 +39,8 @@ Steps:
 <img width="1511" height="690" alt="image" src="https://github.com/user-attachments/assets/6924a97e-b1a1-466f-b985-7a244ac62836" />
 
 
+  7.1. After downloading the .pt model, rename the .pt file to 'metal_defect.pt'.
+  7.2. Download the files from this GitHub to the place where you save the 'metal_defect.pt' file.
   8. Download Anaconda onto your PC. Download the suitable one that supports your operating system.
   9. Steps in Anaconda Prompt Window:
     1. Search for Anaconda Prompt on your PC
